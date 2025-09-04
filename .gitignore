@@ -1,3 +1,5 @@
-test.py 
-test_2.py
 __pycache__/
+
+test.py
+
+venv/
